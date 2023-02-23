@@ -1,1 +1,1 @@
-# Software-Engineering_Project
+# This is my Software Engineering course's project.
